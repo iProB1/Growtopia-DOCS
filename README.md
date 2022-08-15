@@ -1,5 +1,5 @@
-# Growtopia-DOCS
-Growtopia Documentation about packets
+# Growtopia-Docs
+Growtopia Documentation
 
 ### feel free too pull request
 
