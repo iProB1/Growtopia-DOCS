@@ -63,11 +63,20 @@ login packet you send after receiving SERVER_HELLO (type: 1) net message
 
 ### Personal Settings
 `adding_friends` - 1
+
 `player_text` - 2
+
 `in_app` - 3
+
 `tapjoy` - 4
+
 `public_broadcast` - 5
+
 `guild_invites` - 6
+
 `guild_flag` - 7
+
 `billboard` - 8
+
 `classic_store` - 9
+
