@@ -39,7 +39,7 @@ login packet you send after receiving SERVER_HELLO (type: 1) net message
 
 `rid` - generated using GetSimpleGUIDAsString
 
-`platformID` - what platform player is using (0: windows, 1: ios, 2: macos, 4: android)
+`platformID` - what platform player is using (0: windows, 1: ios, 2: macos, 4: android) - 0,1,1
 
 `deviceVersion` - devices version, currently GetDeviceOSVersion only returns 0
 
