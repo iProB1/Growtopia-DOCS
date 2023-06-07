@@ -1,5 +1,5 @@
 # Growtopia-Docs
-Growtopia Documentation
+Growtopia Documentation -> https://discord.gg/wBGDZZC7aK
 
 ### feel free too pull request
 
